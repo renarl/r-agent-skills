@@ -2,6 +2,21 @@
 
 A collection of custom skills for Claude — reusable frameworks that help Claude handle complex, multi-step work more effectively.
 
+## Install
+
+Add this repo as a marketplace in Claude Code:
+
+```
+/plugin marketplace add renarl/agent-skills
+```
+
+Then install individual skills:
+
+```
+/plugin install agent-brief
+/plugin install reddit-research
+```
+
 ## Skills
 
 ### agent-brief
