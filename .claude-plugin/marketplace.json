@@ -1,5 +1,6 @@
 {
-  "name": "agent-skills",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "r-agent-skills",
   "owner": {
     "name": "Renars"
   },

@@ -13,8 +13,8 @@ Add this repo as a marketplace in Claude Code:
 Then install individual skills:
 
 ```
-/plugin install agent-brief
-/plugin install reddit-research
+/plugin install agent-brief@r-agent-skills
+/plugin install reddit-research@r-agent-skills
 ```
 
 ## Skills
