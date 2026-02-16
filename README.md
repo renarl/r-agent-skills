@@ -7,7 +7,7 @@ A collection of custom skills for Claude — reusable frameworks that help Claud
 Add this repo as a marketplace in Claude Code:
 
 ```
-/plugin marketplace add renarl/agent-skills
+/plugin marketplace add renarl/r-agent-skills
 ```
 
 Then install individual skills:
